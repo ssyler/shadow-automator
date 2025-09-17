@@ -1,0 +1,87 @@
+ShadowAutomator Report
+Path: /home/wadi/shadow-automator/demo_demo
+Time: 2025-09-17T15:18:15.927299
+Dry run: False
+Files touched (moved): 0
+Files renamed: 0
+Archives made: 0
+
+Before snapshot:
+----------------------------------------
+demo_demo/
+  └─ shadow_after.txt
+  └─ shadow_before.txt
+  └─ shadow_report.txt
+Documents/
+  2025/
+    September/
+      └─ invoice_1.pdf
+      └─ invoice_2.pdf
+      └─ invoice_3.pdf
+      └─ invoice_4.pdf
+      └─ invoice_5.pdf
+      └─ invoice_6.pdf
+      └─ invoice_7.pdf
+      └─ invoice_8.pdf
+      └─ notes_1.txt
+      └─ notes_2.txt
+      └─ notes_3.txt
+      └─ old_doc.docx
+Pictures/
+  2025/
+    September/
+      └─ pic_1.jpg
+      └─ pic_2.jpg
+      └─ pic_3.jpg
+      └─ pic_4.jpg
+      └─ pic_5.jpg
+      └─ pic_6.jpg
+Videos/
+  2025/
+    September/
+      └─ clip_1.mp4
+      └─ clip_2.mp4
+      └─ clip_3.mp4
+      └─ clip_4.mp4
+nested/
+  stuff/
+
+After snapshot:
+----------------------------------------
+demo_demo/
+  └─ shadow_after.txt
+  └─ shadow_before.txt
+  └─ shadow_report.txt
+Documents/
+  2025/
+    September/
+      └─ invoice_1.pdf
+      └─ invoice_2.pdf
+      └─ invoice_3.pdf
+      └─ invoice_4.pdf
+      └─ invoice_5.pdf
+      └─ invoice_6.pdf
+      └─ invoice_7.pdf
+      └─ invoice_8.pdf
+      └─ notes_1.txt
+      └─ notes_2.txt
+      └─ notes_3.txt
+      └─ old_doc.docx
+Pictures/
+  2025/
+    September/
+      └─ pic_1.jpg
+      └─ pic_2.jpg
+      └─ pic_3.jpg
+      └─ pic_4.jpg
+      └─ pic_5.jpg
+      └─ pic_6.jpg
+Videos/
+  2025/
+    September/
+      └─ clip_1.mp4
+      └─ clip_2.mp4
+      └─ clip_3.mp4
+      └─ clip_4.mp4
+nested/
+  stuff/

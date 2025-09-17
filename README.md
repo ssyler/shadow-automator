@@ -1,18 +1,27 @@
-# Shadow Automator Demo
+# ShadowAutomator 🪄 — One command to tame your messy folders
 
-## Folder Transformation
+**Dark Python automation to transform chaos into clean structure.**  
+Before / After GIFs + rich terminal output = instant satisfaction.
 
-**Before:**  
-![Before](demo_evidence/screenshots/before.png)
+## Demo
+![Before demo](demo_evidence/screenshots/before.png)  
+![After demo](demo_evidence/screenshots/after.png)  
 
-**After:**  
-![After](demo_evidence/screenshots/after.png)
+GIF (terminal demo)  
+![GIF demo](demo_evidence/gifs/shadow-demo.gif)
 
-**GIF Transformation:**  
-Before GIF:  
-![Before GIF](demo_evidence/gifs/before.gif)  
+## Quick start
+```bash
+git clone https://github.com/your-username/shadow-automator.git
+cd shadow-automator
+chmod +x shadow_automator.py
 
-After GIF:  
-![After GIF](demo_evidence/gifs/after.gif)
+# Preview (safe)
+./shadow_automator.py ~/path/to/messy --dry-run
 
-> Simple commands in terminal cleaned up messy files. Elegance and efficiency combined! ✨
+# Real run
+./shadow_automator.py ~/path/to/messy
+
+# "cast" mode (magical output)
+./shadow_automator.py ~/path/to/messy cast --archive-days 365 --ai
+
